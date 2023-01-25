@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\FlutterCode\\Admin App source code\\flutter_vendor_app\\build\\url_launcher_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f5d28eea869bbd9af191d692f06e3418\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\FlutterCode\\Admin App source code\\flutter_vendor_app\\build\\url_launcher_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f5d28eea869bbd9af191d692f06e3418\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\FlutterCode\\Admin App source code\\flutter_vendor_app\\build\\url_launcher_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f5d28eea869bbd9af191d692f06e3418\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\FlutterCode\\Admin App source code\\flutter_vendor_app\\build\\url_launcher_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f5d28eea869bbd9af191d692f06e3418\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\FlutterCode\\Admin App source code\\flutter_vendor_app\\build\\url_launcher_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f5d28eea869bbd9af191d692f06e3418\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]

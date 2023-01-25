@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\FlutterCode\\Admin App source code\\flutter_vendor_app\\build\\shared_preferences_android\\intermediates\\merged_res\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f5d28eea869bbd9af191d692f06e3418\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\FlutterCode\\Admin App source code\\flutter_vendor_app\\build\\shared_preferences_android\\intermediates\\merged_res\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f5d28eea869bbd9af191d692f06e3418\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\FlutterCode\\Admin App source code\\flutter_vendor_app\\build\\shared_preferences_android\\intermediates\\merged_res\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f5d28eea869bbd9af191d692f06e3418\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\FlutterCode\\Admin App source code\\flutter_vendor_app\\build\\shared_preferences_android\\intermediates\\merged_res\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f5d28eea869bbd9af191d692f06e3418\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
